@@ -1,0 +1,6 @@
+This is the new line in txt file
+This line is being append to test.txt
+And another line here
+This is 4th line
+This is 5th line
+This is 6th line
