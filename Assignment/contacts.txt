@@ -1,0 +1,6 @@
+Vaibhav Gupta, 123-456-7890
+Ayush Gupta, 987-654-3210
+AUTHORS:  
+Amy Baker, Finance Chair, x345, abaker@ourcompany.com  
+Chris Donaldson, Accounting Dir., x621, cdonaldson@ourcompany.com  
+Erin Freeman, Sr. VP, x879, efreeman@ourcompany.com  
